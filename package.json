@@ -4,6 +4,11 @@
   "description": "TypeScript declaration for duplexify package",
   "main": "index.d.js",
   "types": "index.d.js",
+  "files": [
+    "index.d.ts",
+    "LICENSE",
+    "README.md"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/machinomy/types-duplexify.git"

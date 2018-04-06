@@ -8,5 +8,9 @@ declare module "duplexify" {
         setWritable(stream: Writable): void;
     }
 
+    namespace Duplexify {
+
+    }
+
     export = Duplexify;
 }

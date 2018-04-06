@@ -1,6 +1,6 @@
 {
   "name": "@machinomy/types-duplexify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "TypeScript declaration for duplexify package",
   "main": "index.d.js",
   "types": "index.d.js",
